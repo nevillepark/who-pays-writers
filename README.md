@@ -26,16 +26,16 @@ Current "most wanted": up-to-date pay for Canadaland and Buzzfeed. Gotta keep th
 *   [Buzzfeed Canada](https://twitter.com/buzzfeedcanada): $90-150 (short piece), $200-250 if it's more work; much more, plus expenses, for longform/investigative pieces
 *   <span style="text-decoration: line-through;">[Canada.com](http://o.canada.com) ([Postmedia](https://www.postmedia.com/)): $0</span> ([defunct](http://rrj.ca/i-was-the-only-writer-left-at-canada-com/))
 *   [Canadaland](http://canadalandshow.com/): [$200](https://twitter.com/goldsbie/status/826181448788959232)
-*   [Canadian Business](http://canadianbusiness.com) ([Rogers Media](http://www.rogersmedia.com)): _____
-*   [Canadian Immigrant](http://canadianimmigrant.ca) ([Metroland](http://metroland.com)): _____
+*   [Canadian Business](http://canadianbusiness.com) ([Rogers Media](http://www.rogersmedia.com)): \_\_\_
+*   [Canadian Immigrant](http://canadianimmigrant.ca) ([Metroland](http://metroland.com)): \_\_\_
 *   [Chatelaine](http://www.chatelaine.com) ([Rogers Media](http://www.rogersmedia.com/)): $1 per word (print)
-*   [Dandyhorse](http://dandyhorsemagazine.com/): _____
-*   [The Ethnic Aisle](http://theethnicaisle.com): [_____](https://www.patreon.com/ethnicaisle?ty=h)
+*   [Dandyhorse](http://dandyhorsemagazine.com/): \_\_\_
+*   [The Ethnic Aisle](http://theethnicaisle.com): [\_\_\_](https://www.patreon.com/ethnicaisle?ty=h)
 *   [Exclaim](http://exclaim.ca): $20 for reviews, $50 for stories
 *   <span style="text-decoration: line-through;">[The Grid](http://thegridto.com) ([Torstar](http://www.torstar.com/index.cfm)): $0.40-0.50 per word (print), about $100 per piece (online)</span> ([defunct](http://www.mastheadonline.com/news/2014/20140702879.shtml))
 *   [Hazlitt](http://www.randomhouse.ca/hazlitt/home) ([Random House](http://www.randomhouse.ca)): $250 for a 500–1000-word piece, $550 for a 2000-word feature
-*   [Inside Toronto](http://insidetoronto.com) ([Metroland](http://metroland.com)): _____
-*   [iPolitics.ca](http://ipolitics.ca/): ____
+*   [Inside Toronto](http://insidetoronto.com) ([Metroland](http://metroland.com)): \_\_\_
+*   [iPolitics.ca](http://ipolitics.ca/): \_\_\_
 *   [iVillage](http://www.ivillage.ca/) ([Corus](http://corusent.com)): $80
 *   [The Kit](http://thekit.ca/) ([Torstar](http://www.torstar.com/index.cfm)): about $75
 *   [The Loop](http://www.theloop.ca/) ([Bell Media](http://bellmedia.ca)): $100-200
@@ -44,7 +44,8 @@ Current "most wanted": up-to-date pay for Canadaland and Buzzfeed. Gotta keep th
 *   [Maisonneuve](http://maisonneuve.org/) (based in Montreal, but we'll allow it): $0.10 per word
 *   [NOW](http://nowtoronto.com): up to $300-400
 *   <span style="text-decoration: line-through;">[OpenFile](https://web.archive.org/web/20130117230216/http://www.openfile.ca/home/toronto): about [-$100-200 (600-800 word piece)](http://davidtopping.tumblr.com/post/42974328699/what-openfile-owes)</span> ([defunct](http://jsource.ca/article/openfile-accounts-frozen-freelancers-still-unpaid))
-*   [Quill & Quire](http://www.quillandquire.com) ([St. Joseph](http://www.stjoseph.com/)): _____
+*   [PostCity.com](http://www.postcity.com/): $50 online only, $75 online & print, $125 per feature, $200 per cover feature
+*   [Quill & Quire](http://www.quillandquire.com) ([St. Joseph](http://www.stjoseph.com/)): \_\_\_
 *   [Shameless](http://shamelessmag.com): [$0](http://shamelessmag.com/get-involved)
 *   [Slice.ca](http://slice.ca) ([Shaw Media](http://www.shawmedia.ca/)): $25-75
 *   [Spacing](http://spacing.ca): about $0.10 per word (print)
