@@ -9,7 +9,7 @@ So you want to work as a writer/reporter/pundit in Toronto? Ha ha ha ha ha! May 
 *   For some publications, I only have print rates so far; assume rates for online work will be a bit less.
 *   Publications at the same "level" (e. g. waiting-room magazine, lifestyle site, etc.) owned by the same giant media conglomerate can be expected to have similar rates.
 *   Some publications rely on their own staff more than others. If you plan on pitching, check how many recent pieces are by staff writers vs. freelancers.
-*   See the changelog for the most recent additions. 
+*   See [the changelog](https://github.com/nevillepark/who-pays-writers/commits/master/README.md) for a history of updates. 
 
 Current "most wanted": up-to-date pay for Canadaland and Buzzfeed. Gotta keep the new kids on their toes.
 
