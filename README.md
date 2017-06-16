@@ -15,7 +15,7 @@ So you want to work as a writer/reporter/pundit in Toronto? Ha ha ha ha ha! May 
 *   Some publications rely on their own staff more than others. If you plan on pitching, check how many recent pieces are by staff writers vs. freelancers.
 *   See [the changelog](https://github.com/nevillepark/who-pays-writers/commits/master/README.md) for a history of updates. 
 
-Current "most wanted": up-to-date pay for Canadaland and Buzzfeed. Gotta keep the new kids on their toes.
+Current "most wanted": up-to-date pay for Canadaland, BuzzFeed, and CBC Opinion. Gotta keep the new kids on their toes.
 
 ## The List
 
@@ -23,11 +23,12 @@ Current "most wanted": up-to-date pay for Canadaland and Buzzfeed. Gotta keep th
 
 *   [AmongMen](http://amongmen.com) ([Maple Media](http://www.maplemedia.ca/)): $25
 *   [BlogTO](http://blogto.com) ([Freshdaily](http://www.freshdaily.ca/)): $0-25; as little as they can get away with
-*   [Buzzfeed Canada](https://twitter.com/buzzfeedcanada): $90-150 (short piece), $200-250 if it's more work; much more, plus expenses, for longform/investigative pieces
+*   [BuzzFeed Canada](https://twitter.com/buzzfeedcanada): $90-150 (short piece), $200-250 if it's more work; much more, plus expenses, for longform/investigative pieces
 *   <span style="text-decoration: line-through;">[Canada.com](http://o.canada.com) ([Postmedia](https://www.postmedia.com/)): $0</span> ([defunct](http://rrj.ca/i-was-the-only-writer-left-at-canada-com/))
 *   [Canadaland](http://canadalandshow.com/): [$200](https://twitter.com/goldsbie/status/826181448788959232)
 *   [Canadian Business](http://canadianbusiness.com) ([Rogers Media](http://www.rogersmedia.com)): \_\_\_
 *   [Canadian Immigrant](http://canadianimmigrant.ca) ([Metroland](http://metroland.com)): \_\_\_
+*   [CBC Opinion](http://www.cbc.ca/news/opinion) ([CBC](http://cbc.ca)): \_\_\_
 *   [Chatelaine](http://www.chatelaine.com) ([Rogers Media](http://www.rogersmedia.com/)): $1 per word (print)
 *   [Dandyhorse](http://dandyhorsemagazine.com/): \_\_\_
 *   [The Ethnic Aisle](http://theethnicaisle.com): [\_\_\_](https://www.patreon.com/ethnicaisle?ty=h)
