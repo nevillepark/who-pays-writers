@@ -1,9 +1,5 @@
 # Who Pays Toronto Writers?
 
-**Note:** As of June 2017, this page has [its own Github repo](https://github.com/nevillepark/who-pays-writers). View [the history](https://github.com/nevillepark/who-pays-writers/commits/master/README.md) to see what changed when.
-
-__________________
-
 So you want to work as a writer/reporter/pundit in Toronto? Ha ha ha ha ha! May God have mercy on your soul, abandon hope all ye who enter here, etc. I'm not saying it's impossible; quite a few freelancers have worked their way up to the masthead. And if you think you can do it before the journalism industry inevitably collapses in on itself like a dying, bloated star, more power to you! Just don't quit your day job, because you're gonna be busting your ass for free. If you're lucky, it will merely be disgustingly exploitative rather than [flagrantly illegal](http://www.thestar.com/news/gta/2014/03/27/ministry_of_labour_cracks_down_on_unpaid_internship_programs.html). So, in the spirit of [Manjula Martin](http://twitter.com/manjulamartin)’s [Who Pays Writers](http://whopays.scratchmag.net/), here's a list of local outlets, who owns them (if applicable), and their rates, all as far as I know. The original list was compiled in **March/April 2014** and I'll update it as new information comes in. 
 
 **A few notes:**
