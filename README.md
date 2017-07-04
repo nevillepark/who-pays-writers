@@ -27,7 +27,7 @@ Current "most wanted": up-to-date pay for Canadaland, BuzzFeed, and CBC Opinion.
 *   [CBC Opinion](http://www.cbc.ca/news/opinion) ([CBC](http://cbc.ca)): \_\_\_
 *   [Chatelaine](http://www.chatelaine.com) ([Rogers Media](http://www.rogersmedia.com/)): $1 per word (print)
 *   [Dandyhorse](http://dandyhorsemagazine.com/): \_\_\_
-*   [The Ethnic Aisle](http://theethnicaisle.com): [\_\_\_](https://www.patreon.com/ethnicaisle?ty=h)
+*   [The Ethnic Aisle](http://theethnicaisle.com): $100 per piece
 *   [Exclaim](http://exclaim.ca): $20 for reviews, $50 for stories
 *   <span style="text-decoration: line-through;">[The Grid](http://thegridto.com) ([Torstar](http://www.torstar.com/index.cfm)): $0.40-0.50 per word (print), about $100 per piece (online)</span> ([defunct](http://www.mastheadonline.com/news/2014/20140702879.shtml))
 *   [Hazlitt](http://www.randomhouse.ca/hazlitt/home) ([Random House](http://www.randomhouse.ca)): $250 for a 500–1000-word piece, $550 for a 2000-word feature
