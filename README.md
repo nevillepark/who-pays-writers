@@ -53,7 +53,7 @@ Current "most wanted": up-to-date pay for Canadaland, BuzzFeed, and CBC Opinion.
 *   [Toronto Standard](http://torontostandard.com): <span style="text-decoration: line-through;">$100 (800-1000 word feature)</span> ([not accepting freelance contributions](https://archive.today/GnHyK))
 *   [Vice Canada](http://www.vice.com/en_ca/): $0 to $75; pay is not prompt
 *   [The Walrus](http://thewalrus.ca): $1 per word (print), $300 for ~1000-word online piece
-*   [Xtra](http://dailyxtra.com/) ([Pink Triangle Press](http://pinktrianglepress.com/)): $0.23 per word
+*   [Xtra](http://dailyxtra.com/) ([Pink Triangle Press](http://pinktrianglepress.com/)): $0.25 per word
 *   [Yonge Street](http://www.yongestreetmedia.ca/): $75-$200 (feature)
 
 ## Newspapers
