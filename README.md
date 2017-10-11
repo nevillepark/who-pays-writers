@@ -31,6 +31,7 @@ Current "most wanted": up-to-date pay for Canadaland, BuzzFeed, and CBC Opinion.
 *   [Exclaim](http://exclaim.ca): $20 for reviews, $50 for stories
 *   <span style="text-decoration: line-through;">[The Grid](http://thegridto.com) ([Torstar](http://www.torstar.com/index.cfm)): $0.40-0.50 per word (print), about $100 per piece (online)</span> ([defunct](http://www.mastheadonline.com/news/2014/20140702879.shtml))
 *   [Hazlitt](http://www.randomhouse.ca/hazlitt/home) ([Random House](http://www.randomhouse.ca)): $250 for a 500–1000-word piece, $550 for a 2000-word feature
+*   [The Hyphen](https://www.thehyphen.ca): [$50 and up](https://www.thehyphen.ca/submissions/)
 *   [Inside Toronto](http://insidetoronto.com) ([Metroland](http://metroland.com)): \_\_\_
 *   [iPolitics.ca](http://ipolitics.ca/): \_\_\_
 *   [iVillage](http://www.ivillage.ca/) ([Corus](http://corusent.com)): $80
@@ -39,6 +40,7 @@ Current "most wanted": up-to-date pay for Canadaland, BuzzFeed, and CBC Opinion.
 *   [The Luxe Life](http://theluxelife.com) ([eLuxe](http://www.thestar.com/life/fashion_style/2013/04/26/toronto_stylistas_join_forces_to_create_eluxe_an_online_retail_fashion_experience.html)): $0 per piece
 *   [Macleans](http://macleans.ca) ([Rogers Media](http://www.rogersmedia.com)): $1 per word
 *   [Maisonneuve](http://maisonneuve.org/) (based in Montreal, but we'll allow it): $0.10 per word
+*   [Narcity](https://www.narcity.com/ca/on/toronto) ([Narcity Media](https://www.narcitymedia.com/)): \_\_\_
 *   [NOW](http://nowtoronto.com): up to $300-400
 *   <span style="text-decoration: line-through;">[OpenFile](https://web.archive.org/web/20130117230216/http://www.openfile.ca/home/toronto): about [-$100-200 (600-800 word piece)](http://davidtopping.tumblr.com/post/42974328699/what-openfile-owes)</span> ([defunct](http://jsource.ca/article/openfile-accounts-frozen-freelancers-still-unpaid))
 *   [PostCity.com](http://www.postcity.com/): $50 online only, $75 online & print, $125 per feature, $200 per cover feature
