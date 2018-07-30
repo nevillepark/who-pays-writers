@@ -20,7 +20,7 @@ Current "most wanted": up-to-date pay for Canadaland, BuzzFeed, and CBC Opinion.
 *   [AmongMen](http://amongmen.com) ([Maple Media](http://www.maplemedia.ca/)): $25
 *   [BlogTO](http://blogto.com) ([Freshdaily](http://www.freshdaily.ca/)): $0-25; as little as they can get away with
 *   [BuzzFeed Canada](https://twitter.com/buzzfeedcanada): $90-150 (short piece), $200-250 if it's more work; much more, plus expenses, for longform/investigative pieces
-*   <span style="text-decoration: line-through;">[Canada.com](http://o.canada.com) ([Postmedia](https://www.postmedia.com/)): $0</span> ([defunct](http://rrj.ca/i-was-the-only-writer-left-at-canada-com/))
+*   <strike>[Canada.com](http://o.canada.com) ([Postmedia](https://www.postmedia.com/)): $0</strike> ([defunct](http://rrj.ca/i-was-the-only-writer-left-at-canada-com/))
 *   [Canadaland](http://canadalandshow.com/): [$200](https://twitter.com/goldsbie/status/826181448788959232)
 *   [Canadian Business](http://canadianbusiness.com) ([Rogers Media](http://www.rogersmedia.com)): \_\_\_
 *   [Canadian Immigrant](http://canadianimmigrant.ca) ([Metroland](http://metroland.com)): \_\_\_
@@ -29,7 +29,7 @@ Current "most wanted": up-to-date pay for Canadaland, BuzzFeed, and CBC Opinion.
 *   [Dandyhorse](http://dandyhorsemagazine.com/): \_\_\_
 *   [The Ethnic Aisle](http://theethnicaisle.com): $100 per piece
 *   [Exclaim](http://exclaim.ca): $20 for reviews, $50 for stories
-*   <span style="text-decoration: line-through;">[The Grid](http://thegridto.com) ([Torstar](http://www.torstar.com/index.cfm)): $0.40-0.50 per word (print), about $100 per piece (online)</span> ([defunct](http://www.mastheadonline.com/news/2014/20140702879.shtml))
+*   <strike>[The Grid](http://thegridto.com) ([Torstar](http://www.torstar.com/index.cfm)): $0.40-0.50 per word (print), about $100 per piece (online)</strike> ([defunct](http://www.mastheadonline.com/news/2014/20140702879.shtml))
 *   [Hazlitt](http://www.randomhouse.ca/hazlitt/home) ([Random House](http://www.randomhouse.ca)): $250 for a 500–1000-word piece, $550 for a 2000-word feature
 *   [The Hyphen](https://www.thehyphen.ca): [$50 and up](https://www.thehyphen.ca/submissions/)
 *   [Inside Toronto](http://insidetoronto.com) ([Metroland](http://metroland.com)): \_\_\_
@@ -42,7 +42,7 @@ Current "most wanted": up-to-date pay for Canadaland, BuzzFeed, and CBC Opinion.
 *   [Maisonneuve](http://maisonneuve.org/) (based in Montreal, but we'll allow it): $0.10 per word
 *   [Narcity](https://www.narcity.com/ca/on/toronto) ([Narcity Media](https://www.narcitymedia.com/)): \_\_\_
 *   [NOW](http://nowtoronto.com): up to $300-400
-*   <span style="text-decoration: line-through;">[OpenFile](https://web.archive.org/web/20130117230216/http://www.openfile.ca/home/toronto): about [-$100-200 (600-800 word piece)](http://davidtopping.tumblr.com/post/42974328699/what-openfile-owes)</span> ([defunct](http://jsource.ca/article/openfile-accounts-frozen-freelancers-still-unpaid))
+*   <strike>[OpenFile](https://web.archive.org/web/20130117230216/http://www.openfile.ca/home/toronto): about [-$100-200 (600-800 word piece)](http://davidtopping.tumblr.com/post/42974328699/what-openfile-owes)</strike> ([defunct](http://jsource.ca/article/openfile-accounts-frozen-freelancers-still-unpaid))
 *   [PostCity.com](http://www.postcity.com/): $50 online only, $75 online & print, $125 per feature, $200 per cover feature
 *   [Quill & Quire](http://www.quillandquire.com) ([St. Joseph](http://www.stjoseph.com/)): \_\_\_
 *   [Shameless](http://shamelessmag.com): [$0](http://shamelessmag.com/get-involved)
@@ -50,9 +50,9 @@ Current "most wanted": up-to-date pay for Canadaland, BuzzFeed, and CBC Opinion.
 *   [Spacing](http://spacing.ca): about $0.10 per word (print)
 *   [This Magazine](http://this.org): $0.10 per word (feature), $50-75 per column (800-1200 words).
 *   [Today's Parent](http://www.todaysparent.com) ([Rogers Media](http://www.rogersmedia.com/)): $1 per word (print)
-*   <span style="text-decoration:line-through;">[Torontoist](http://torontoist.com) ([St. Joseph](http://www.stjoseph.com/)): [$0 for freelance](http://torontoist.com/freelance/), $15 for [staff contributors](http://torontoist.com/joinstaff/), more for video</span> (they seem to be Going Through Some Shit and are currently inactive)
+*   <strike>[Torontoist](http://torontoist.com) ([St. Joseph](http://www.stjoseph.com/)): [$0 for freelance](http://torontoist.com/freelance/), $15 for [staff contributors](http://torontoist.com/joinstaff/), more for video</strike> (they seem to be Going Through Some Shit and are currently inactive)
 *   [Toronto Life](http://torontolife.com) ([St. Joseph](http://www.stjoseph.com/)): at least $1 per word (print), $25-250 (online)
-*   [Toronto Standard](http://torontostandard.com): <span style="text-decoration: line-through;">$100 (800-1000 word feature)</span> ([not accepting freelance contributions](https://archive.today/GnHyK))
+*   [Toronto Standard](http://torontostandard.com): <strike>$100 (800-1000 word feature)</strike> ([not accepting freelance contributions](https://archive.today/GnHyK))
 *   [Vice Canada](http://www.vice.com/en_ca/): $0 to $75; pay is not prompt
 *   [The Walrus](http://thewalrus.ca): $1 per word (print), $300 for ~1000-word online piece
 *   [Xtra](http://dailyxtra.com/) ([Pink Triangle Press](http://pinktrianglepress.com/)): $0.25 per word
