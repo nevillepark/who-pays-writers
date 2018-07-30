@@ -50,7 +50,7 @@ Current "most wanted": up-to-date pay for Canadaland, BuzzFeed, and CBC Opinion.
 *   [Spacing](http://spacing.ca): about $0.10 per word (print)
 *   [This Magazine](http://this.org): $0.10 per word (feature), $50-75 per column (800-1200 words).
 *   [Today's Parent](http://www.todaysparent.com) ([Rogers Media](http://www.rogersmedia.com/)): $1 per word (print)
-*   [Torontoist](http://torontoist.com) ([St. Joseph](http://www.stjoseph.com/)): [$0 for freelance](http://torontoist.com/freelance/), $15 for [staff contributors](http://torontoist.com/joinstaff/), more for video
+*   <span style="text-decoration:line-through;">[Torontoist](http://torontoist.com) ([St. Joseph](http://www.stjoseph.com/)): [$0 for freelance](http://torontoist.com/freelance/), $15 for [staff contributors](http://torontoist.com/joinstaff/), more for video</span> (they seem to be Going Through Some Shit and are currently inactive)
 *   [Toronto Life](http://torontolife.com) ([St. Joseph](http://www.stjoseph.com/)): at least $1 per word (print), $25-250 (online)
 *   [Toronto Standard](http://torontostandard.com): <span style="text-decoration: line-through;">$100 (800-1000 word feature)</span> ([not accepting freelance contributions](https://archive.today/GnHyK))
 *   [Vice Canada](http://www.vice.com/en_ca/): $0 to $75; pay is not prompt
