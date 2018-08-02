@@ -18,7 +18,7 @@ Current "most wanted": up-to-date pay for Canadaland, BuzzFeed, and CBC Opinion.
 ### Magazines and Websites
 
 *   [AmongMen](http://amongmen.com) ([Maple Media](http://www.maplemedia.ca/)): $25
-*   [BlogTO](http://blogto.com) ([Freshdaily](http://www.freshdaily.ca/)): $0-25; as little as they can get away with
+*   [BlogTO](http://blogto.com) ([Freshdaily](http://www.freshdaily.ca/)): no set freelance rate, but about $50-150 per piece
 *   [BuzzFeed Canada](https://twitter.com/buzzfeedcanada): $90-150 (short piece), $200-250 if it's more work; much more, plus expenses, for longform/investigative pieces
 *   <strike>[Canada.com](http://o.canada.com) ([Postmedia](https://www.postmedia.com/)): $0</strike> ([defunct](http://rrj.ca/i-was-the-only-writer-left-at-canada-com/))
 *   [Canadaland](http://canadalandshow.com/): [$200](https://twitter.com/goldsbie/status/826181448788959232)
