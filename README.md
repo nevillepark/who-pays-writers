@@ -36,6 +36,7 @@ Current "most wanted": up-to-date pay for Canadaland, BuzzFeed, and CBC Opinion.
 *   [iPolitics.ca](http://ipolitics.ca/): \_\_\_
 *   [iVillage](http://www.ivillage.ca/) ([Corus](http://corusent.com)): $80
 *   [The Kit](http://thekit.ca/) ([Torstar](http://www.torstar.com/index.cfm)): about $75
+*   [The Local](https://thelocal.to/) ([UHN OpenLab](http://uhnopenlab.ca/): about $750 for a 1000-word feature ([source](https://twitter.com/thelocalhealth/status/1085220541487820801))
 *   [The Loop](http://www.theloop.ca/) ([Bell Media](http://bellmedia.ca)): $100-200
 *   [The Luxe Life](http://theluxelife.com) ([eLuxe](http://www.thestar.com/life/fashion_style/2013/04/26/toronto_stylistas_join_forces_to_create_eluxe_an_online_retail_fashion_experience.html)): $0 per piece
 *   [Macleans](http://macleans.ca) ([Rogers Media](http://www.rogersmedia.com)): $1 per word
