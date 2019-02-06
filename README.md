@@ -11,7 +11,7 @@ So you want to work as a writer/reporter/pundit in Toronto? Ha ha ha ha ha! May 
 *   Some publications rely on their own staff more than others. If you plan on pitching, check how many recent pieces are by staff writers vs. freelancers.
 *   See [the changelog](https://github.com/nevillepark/who-pays-writers/commits/master/README.md) for a history of updates. 
 
-Current "most wanted": up-to-date pay for Canadaland, BuzzFeed, and CBC Opinion. Gotta keep the new kids on their toes.
+Current "most wanted": up-to-date pay for Daily Hive, Canadaland, BuzzFeed, CBC Opinion. Gotta keep the new kids on their toes.
 
 ## The List
 
@@ -26,6 +26,7 @@ Current "most wanted": up-to-date pay for Canadaland, BuzzFeed, and CBC Opinion.
 *   [Canadian Immigrant](http://canadianimmigrant.ca) ([Metroland](http://metroland.com)): \_\_\_
 *   [CBC Opinion](http://www.cbc.ca/news/opinion) ([CBC](http://cbc.ca)): \_\_\_
 *   [Chatelaine](http://www.chatelaine.com) ([Rogers Media](http://www.rogersmedia.com/)): $1 per word (print)
+*   [Daily Hive](https://dailyhive.com/toronto) (Buzz Connected Media): \_\_\_
 *   [Dandyhorse](http://dandyhorsemagazine.com/): \_\_\_
 *   [The Ethnic Aisle](http://theethnicaisle.com): $100 per piece
 *   [Exclaim](http://exclaim.ca): $20 for reviews, $50 for stories
@@ -51,7 +52,7 @@ Current "most wanted": up-to-date pay for Canadaland, BuzzFeed, and CBC Opinion.
 *   [Spacing](http://spacing.ca): about $0.10 per word (print)
 *   [This Magazine](http://this.org): $0.10 per word (feature), $50-75 per column (800-1200 words).
 *   [Today's Parent](http://www.todaysparent.com) ([Rogers Media](http://www.rogersmedia.com/)): $1 per word (print)
-*   <strike>[Torontoist](http://torontoist.com) ([St. Joseph](http://www.stjoseph.com/)): [$0 for freelance](http://torontoist.com/freelance/), $15 for [staff contributors](http://torontoist.com/joinstaff/), more for video</strike> (they seem to be Going Through Some Shit and are currently inactive)
+*   <strike>[Torontoist](http://torontoist.com) ([St. Joseph](http://www.stjoseph.com/)): [$0 for freelance](http://torontoist.com/freelance/), $15 for [staff contributors](http://torontoist.com/joinstaff/), more for video</strike> (acquired by Daily Hive in February 2019)
 *   [Toronto Life](http://torontolife.com) ([St. Joseph](http://www.stjoseph.com/)): at least $1 per word (print), $25-250 (online)
 *   [Toronto Standard](http://torontostandard.com): <strike>$100 (800-1000 word feature)</strike> ([not accepting freelance contributions](https://archive.today/GnHyK))
 *   [Vice Canada](http://www.vice.com/en_ca/): $0 to $75; pay is not prompt
