@@ -41,7 +41,7 @@ Current "most wanted": up-to-date pay for Daily Hive, Canadaland, BuzzFeed, CBC 
 *   [The Loop](http://www.theloop.ca/) ([Bell Media](http://bellmedia.ca)): $100-200
 *   [The Luxe Life](http://theluxelife.com) ([eLuxe](http://www.thestar.com/life/fashion_style/2013/04/26/toronto_stylistas_join_forces_to_create_eluxe_an_online_retail_fashion_experience.html)): $0 per piece
 *   [Macleans](http://macleans.ca) ([Rogers Media](http://www.rogersmedia.com)): $1 per word
-*   [Maisonneuve](http://maisonneuve.org/) (based in Montreal, but we'll allow it): $0.10 per word
+*   [Maisonneuve](http://maisonneuve.org/) (based in Montreal, but we'll allow it): $0.10 per word ([source](https://twitter.com/seleross/status/1158825434483703808))
 *   [Narcity](https://www.narcity.com/ca/on/toronto) ([Narcity Media](https://www.narcitymedia.com/)): \_\_\_
 *   [NOW](http://nowtoronto.com): up to $300-400
 *   <strike>[OpenFile](https://web.archive.org/web/20130117230216/http://www.openfile.ca/home/toronto): about [-$100-200 (600-800 word piece)](http://davidtopping.tumblr.com/post/42974328699/what-openfile-owes)</strike> ([defunct](http://jsource.ca/article/openfile-accounts-frozen-freelancers-still-unpaid))
